@@ -26,7 +26,7 @@ Here are a few things I've picked up along my learning journey.
 <img  alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-<div style="display: flex; gap:10px;">
+<div style="display: flex, gap:10px;">
 <img src="./unittesting.png" alt="unittesting" width="26px"/>
 <img src="./bootstrap.png" alt="bootstrap"  width="30px"/>
 <img src="./java.png" alt="java"  width="50px"/>
