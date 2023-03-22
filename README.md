@@ -46,4 +46,5 @@ Here are a few things I've picked up along my learning journey.
 
 or give some ♥ on [mail](mailto:zakaria.wildali.7@gmail.com).
 
+![Profile views](https://gpvc.arturio.dev/[zakaria-ali])
 
