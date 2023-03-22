@@ -19,22 +19,22 @@
 Here are a few things I've picked up along my learning journey.
 
 <div >
-<img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right:10px;" />&nbsp;&nbsp;
-<img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right:10px;" />
-<img  alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right:10px;" />
-<img  alt="Sass"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin-right:10px;"/>
-<img  alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:10px;"/>
-<img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right:10px;"/>
-<img src="./unittesting.png" alt="unittesting" width="26px" style="margin-left:10px;"/>
-<img src="./bootstrap.png" alt="bootstrap"  width="30px" style="margin-left:10px;"/>
-<img src="./java.png" alt="java"  width="50px" style="margin-left:10px;"/>
-<img src="./assembly.png" alt="assembly" width="26px" style="margin-left:10px;"/>
-<img src="./python.png" alt="python"  width="50px" style="margin-left:10px;"/>
-<img src="./pl-sql.png" alt="pl-sql"  width="40px" style="margin-left:10px;"/>
-<img src="./datas.png" alt="data structure"height="40px" width="40px" style="margin-left:10px;"/>
-<img src="./cpp.png" alt="cpp"  width="30px" style="padding-left:10px;"/>
-<img src="./mysql.png" alt="mysql"  width="50px" style="margin-left:10px;"/>
-<img src="./ard.png" alt="arduino" width="50px" style="margin-left:10px;"/>
+<img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+<img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+<img  alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+<img  alt="Sass"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;&nbsp;
+<img  alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+<img src="./unittesting.png" alt="unittesting" width="26px" />&nbsp;&nbsp;
+<img src="./bootstrap.png" alt="bootstrap"  width="30px" />&nbsp;&nbsp;
+<img src="./java.png" alt="java"  width="50px" />&nbsp;&nbsp;
+<img src="./assembly.png" alt="assembly" width="26px" />&nbsp;&nbsp;
+<img src="./python.png" alt="python"  width="50px" />&nbsp;&nbsp;
+<img src="./pl-sql.png" alt="pl-sql"  width="40px" />&nbsp;&nbsp;
+<img src="./datas.png" alt="data structure"height="40px" width="40px" />&nbsp;&nbsp;
+<img src="./cpp.png" alt="cpp"  width="30px" />&nbsp;&nbsp;
+<img src="./mysql.png" alt="mysql"  width="50px" />&nbsp;&nbsp;
+<img src="./ard.png" alt="arduino" width="50px" />&nbsp;&nbsp;
 </div>
 
 ## 📫 Get in touch
