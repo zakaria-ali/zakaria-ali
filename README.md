@@ -38,9 +38,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 
-[![website](./globe-light.svg)](https://zakaria-ali.github.io/react-portfolio/#gh-light-mode-only)
-[![website](./globe-dark.svg)](https://zakaria-ali.github.io/react-portfolio/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-dark-mode-only)
 &nbsp;&nbsp;
