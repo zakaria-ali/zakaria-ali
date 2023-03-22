@@ -30,7 +30,7 @@ Here are a few things I've picked up along my learning journey.
 <img src="./assembly.png" alt="assembly" width="26px" />&nbsp;&nbsp;
 <img src="./python.png" alt="python"  width="50px" />&nbsp;&nbsp;
 <img src="./pl-sql.png" alt="pl-sql"  width="40px" />&nbsp;&nbsp;
-<img src="./datas.png" alt="data structure"height="40px" width="40px" />&nbsp;&nbsp;
+<img src="./datas.png" alt="data structure" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="./cpp.png" alt="cpp"  width="30px" />&nbsp;&nbsp;
 <img src="./mysql.png" alt="mysql"  width="50px" />&nbsp;&nbsp;
 <img src="./ard.png" alt="arduino" width="50px" />&nbsp;&nbsp;
@@ -48,7 +48,7 @@ Here are a few things I've picked up along my learning journey.
 [![website](./instagram-dark.svg)](https://www.instagram.com/zakaria_wildali/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./facebook-light.svg)](https://www.facebook.com/zakarya.wildali.7#gh-light-mode-only)
-[![website](./facebook-dark.svg)](https://www.facebook.com/zakarya.wildali.7#gh-dark-mode-only)
+[![website](./facebook-light.svg)](https://www.facebook.com/zakarya.wildali.7#gh-dark-mode-only)
 
 
 or give some ♥ on [mail](mailto:zakaria.wildali.7@gmail.com).
