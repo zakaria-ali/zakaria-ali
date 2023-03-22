@@ -46,10 +46,6 @@ Here are a few things I've picked up along my learning journey.
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://www.instagram.com/zakaria_wildali/#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://www.instagram.com/zakaria_wildali/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./facebook-light.svg)](https://www.facebook.com/zakarya.wildali.7#gh-light-mode-only)
-[![website](./facebook-light.svg)](https://www.facebook.com/zakarya.wildali.7#gh-dark-mode-only)
-
 
 or give some ♥ on [mail](mailto:zakaria.wildali.7@gmail.com).
 
