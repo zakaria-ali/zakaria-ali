@@ -1,9 +1,8 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Hi, I am Zakaria WildAli 👨‍💻
 
-<img src="./sass.svg" alt="SASS"  height="32px" width="30px"/>
 
-#I am a Front-End Developer </>.
+# I am a Front-End Developer </>.
 
 - 👀 I’m passionate about technology
 - 🌱 I’m currently learning everything 🤣
@@ -15,13 +14,13 @@
 ### 🔭 Have a look at my [website](https://zakaria-ali.github.io/react-portfolio/).
 
 
-### ⚡ Languages and Tools
+### ⚡ Languages and Tools:
 Here are a few things I've picked up along my learning journey.
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/bootstrap.svg" style="padding-right:10px; filter: brightness(0) saturate(100%) hue-rotate(180deg) sepia(100%) invert(43%) brightness(99%) contrast(106%);" />][cssplaylist]
+<img src="./bootstrap.png" alt="bootstrap" width="26px"/>
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
