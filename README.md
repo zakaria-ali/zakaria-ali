@@ -25,8 +25,7 @@ Here are a few things I've picked up along my learning journey.
 <img  alt="Sass"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin-right:10px;"/>
 <img  alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:10px;"/>
 <img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right:10px;"/>
-</div>
-<div style="display: flex;">
+  <div style= "display: inline-block;">
 <img src="./unittesting.png" alt="unittesting" width="26px" style="margin-left:10px;"/>
 <img src="./bootstrap.png" alt="bootstrap"  width="30px" style="margin-left:10px;"/>
 <img src="./java.png" alt="java"  width="50px" style="margin-left:10px;"/>
@@ -37,6 +36,7 @@ Here are a few things I've picked up along my learning journey.
 <img src="./cpp.png" alt="cpp"  width="30px" style="padding-left:10px;"/>
 <img src="./mysql.png" alt="mysql"  width="50px" style="margin-left:10px;"/>
 <img src="./ard.png" alt="arduino" width="50px" style="margin-left:10px;"/>
+</div>
 </div>
 
 ## 📫 Get in touch
