@@ -27,16 +27,16 @@ Here are a few things I've picked up along my learning journey.
 <img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
 </div>
 <div style="display: flex;">
-<img src="./unittesting.png" alt="unittesting" width="26px" style="padding-right:10px;"/>
-<img src="./bootstrap.png" alt="bootstrap"  width="30px" style="padding-right:10px;"/>
-<img src="./java.png" alt="java"  width="50px" style="padding-right:10px;"/>
-<img src="./assembly.png" alt="assembly" width="26px" style="padding-right:10px;"/>
-<img src="./python.png" alt="python"  width="50px" style="padding-right:10px;"/>
-<img src="./pl-sql.png" alt="pl-sql"  width="40px" style="padding-right:10px;"/>
-<img src="./datas.png" alt="data structure"height="40px" width="40px" style="padding-right:10px;"/>
+<img src="./unittesting.png" alt="unittesting" width="26px" style="margin-right:10px;"/>
+<img src="./bootstrap.png" alt="bootstrap"  width="30px" style="margin-right:10px;"/>
+<img src="./java.png" alt="java"  width="50px" style="margin-right:10px;"/>
+<img src="./assembly.png" alt="assembly" width="26px" style="margin-right:10px;"/>
+<img src="./python.png" alt="python"  width="50px" style="margin-right:10px;"/>
+<img src="./pl-sql.png" alt="pl-sql"  width="40px" style="margin-right:10px;"/>
+<img src="./datas.png" alt="data structure"height="40px" width="40px" style="margin-right:10px;"/>
 <img src="./cpp.png" alt="cpp"  width="30px" style="padding-right:10px;"/>
-<img src="./mysql.png" alt="mysql"  width="50px" style="padding-right:10px;"/>
-<img src="./ard.png" alt="arduino" width="50px" style="padding-right:10px;"/>
+<img src="./mysql.png" alt="mysql"  width="50px" style="margin-right:10px;"/>
+<img src="./ard.png" alt="arduino" width="50px" style="margin-right:10px;"/>
 </div>
 
 ## 📫 Get in touch
