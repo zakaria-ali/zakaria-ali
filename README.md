@@ -1,7 +1,7 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Zakaria WildAli 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="15px"> Hi, I am Zakaria WildAli 👨‍💻
 
-<img src="./sass.svg" alt="SASS"  height="32px" width="5px"/>
+<img src="./sass.svg" alt="SASS"  height="32px" width="30px"/>
 
 I am a Front-End Developer </>.
 
