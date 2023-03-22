@@ -18,7 +18,7 @@
 ### ⚡ Languages and Tools:
 Here are a few things I've picked up along my learning journey.
 
-<div style="display: flex; gap:10px;">
+<div style="display: flex; gap:100px;">
 <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
@@ -38,7 +38,6 @@ Here are a few things I've picked up along my learning journey.
 <img src="./mysql.png" alt="mysql"  width="50px"/>
 <img src="./ard.png" alt="arduino" width="50px"/>
 </div>
----
 
 ## 📫 Get in touch
 
