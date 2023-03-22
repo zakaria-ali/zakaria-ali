@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Hi, I am Zakaria WildAli 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> Hi, I am Zakaria WildAli 👨‍💻
 
 ## I am a Front-End Developer </>.
 
@@ -14,17 +14,18 @@
 
 ---
 
+
 ### ⚡ Languages and Tools:
 Here are a few things I've picked up along my learning journey.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img src="./bootstrap.png" alt="bootstrap" width="26px"/>
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Sass" height="30px" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img src="./unittesting.png" alt="unittesting" width="26px"/>
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img src="./java.png" alt="java" width="26px"/>
 <img src="./assembly.png" alt="assembly" width="26px"/>
 <img src="./python.png" alt="python" width="26px"/>
@@ -34,8 +35,6 @@ Here are a few things I've picked up along my learning journey.
 <img src="./mysql.png" alt="mysql" width="26px"/>
 <img src="./ard.png" alt="arduino" width="26px"/>
 
-<br />
-<br />
 ---
 
 ## 📫 Get in touch
@@ -53,6 +52,6 @@ Here are a few things I've picked up along my learning journey.
 [![website](./img/facebook-dark.svg)](www.facebook.com/zakarya.wildali.7#gh-dark-mode-only)
 
 
-or give some ♥ on [mail](mailto:zakaria.wildali.7@gmail.com) .
+or give some ♥ on [mail](mailto:zakaria.wildali.7@gmail.com).
 
 
