@@ -18,7 +18,7 @@
 ### ⚡ Languages and Tools:
 Here are a few things I've picked up along my learning journey.
 
-<div style="display: flex; gap:10px;  align-items: baseline; ">
+<div style="display: flex; gap:10px;      justify-content:first baseline; ">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
