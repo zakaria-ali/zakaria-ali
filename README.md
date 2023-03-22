@@ -1,6 +1,5 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Hi, I am Zakaria WildAli 👨‍💻
----
 
 ## I am a Front-End Developer </>.
 
@@ -13,18 +12,19 @@
 
 ### 🔭 Have a look at my [website](https://zakaria-ali.github.io/react-portfolio/).
 
+---
 
 ### ⚡ Languages and Tools:
 Here are a few things I've picked up along my learning journey.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 <img src="./bootstrap.png" alt="bootstrap" width="26px"/>
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 <img src="./unittesting.png" alt="unittesting" width="26px"/>
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
 <img src="./java.png" alt="java" width="26px"/>
 <img src="./assembly.png" alt="assembly" width="26px"/>
 <img src="./python.png" alt="python" width="26px"/>
@@ -36,12 +36,7 @@ Here are a few things I've picked up along my learning journey.
 
 <br />
 <br />
-
-[website]: https://zakaria-ali.github.io/react-portfolio/
-[instagram]: https://www.instagram.com/zakaria_wildali/
-[linkedin]: https://www.linkedin.com/in/zakaria-wildali-b6798325a/
-[facebook]: https://www.facebook.com/zakarya.wildali.7
-
+---
 
 ## 📫 Get in touch
 
