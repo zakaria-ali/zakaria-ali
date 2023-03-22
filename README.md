@@ -18,7 +18,6 @@
 ### ⚡ Languages and Tools:
 Here are a few things I've picked up along my learning journey.
 
-<div >
 <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
 <img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
 <img  alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
@@ -35,21 +34,21 @@ Here are a few things I've picked up along my learning journey.
 <img src="./cpp.png" alt="cpp"  width="30px" />&nbsp;&nbsp;
 <img src="./mysql.png" alt="mysql"  width="50px" />&nbsp;&nbsp;
 <img src="./ard.png" alt="arduino" width="50px" />&nbsp;&nbsp;
-</div>
+
 
 ## 📫 Get in touch
 
-[![website](./img/globe-light.svg)](https://zakaria-ali.github.io/react-portfolio/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://zakaria-ali.github.io/react-portfolio/#gh-dark-mode-only)
+[![website](./globe-light.svg)](https://zakaria-ali.github.io/react-portfolio/#gh-light-mode-only)
+[![website](./globe-dark.svg)](https://zakaria-ali.github.io/react-portfolio/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](www.instagram.com/zakaria_wildali/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](www.instagram.com/zakaria_wildali/#gh-dark-mode-only)
+[![website](./instagram-light.svg)](www.instagram.com/zakaria_wildali/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](www.instagram.com/zakaria_wildali/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](www.facebook.com/zakarya.wildali.7#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](www.facebook.com/zakarya.wildali.7#gh-dark-mode-only)
+[![website](./facebook-light.svg)](www.facebook.com/zakarya.wildali.7#gh-light-mode-only)
+[![website](./facebook-dark.svg)](www.facebook.com/zakarya.wildali.7#gh-dark-mode-only)
 
 
 or give some ♥ on [mail](mailto:zakaria.wildali.7@gmail.com).
