@@ -34,7 +34,7 @@ Here are a few things I've picked up along my learning journey.
 <img src="./cpp.png" alt="cpp"  width="30px" />&nbsp;&nbsp;
 <img src="./mysql.png" alt="mysql"  width="50px" />&nbsp;&nbsp;
 <img src="./ard.png" alt="arduino" width="50px" />&nbsp;&nbsp;
-<img src="./odoo.png" alt="mysql"  width="50px" />&nbsp;&nbsp;
+<img src="./odoo.png" alt="mysql"  width="40px" />&nbsp;&nbsp;
 
 
 
