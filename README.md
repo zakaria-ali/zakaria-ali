@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I love volleyball and computer games
 
 
-### 🔭 Have a look at my [website](https://zakaria-ali.github.io/react-portfolio/).
+### 🔭 Have a look at my [website](https://zakaria-ali.github.io/react-portfolio/).                                        
+
 
 ---
 
@@ -37,7 +38,14 @@ Here are a few things I've picked up along my learning journey.
 <img src="./odoo.png" alt="mysql"  width="40px" />&nbsp;&nbsp;
 
 
+---
 
+
+### 👩‍💻 Certifications:
+- [Odoo 13 Website Development](https://drive.google.com/file/d/1HBNfwT_OIYVhcgVqLTtD1VOwV4hdIx2V/view?usp=sharing)
+- [Pandas](https://drive.google.com/file/d/1-wDC_3UVbkZDzu995fAN47ZxH8z5jlfx/view)
+- [Intro to Machine Learning](https://drive.google.com/file/d/1Fllz6feABJBVKLNoybN-fb-q6KAQ3TNy/view)
+- [International Safety and Health Management System Standards](https://drive.google.com/file/d/1YeCN0fIZlAVXiSTTOlAeMyTrE69J1fYh/view)
 ## 📫 Get in touch
 
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/zakaria-wildali-b6798325a/#gh-light-mode-only)
